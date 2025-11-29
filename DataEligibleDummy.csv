@@ -1,0 +1,31 @@
+nim,nik,nama_mahasiswa,nama_prodi,ipk,nm_jenj_didik,nama_univ,waktu_kelulusan,id,is_eligible
+12012100071,3.67305E+15,WINDA,Hukum,3.81,S1,Universitas Bina Bangsa,8/30/2025,0b0acb9a-1294-4029-bebd-6e743d957941,t
+12012100072,3.17509E+15,Adi Pratama,Manajemen,3.45,S1,Universitas Indonesia,7/11/2025,1cf2ab9a-3294-4029-bebd-6e743d95a111,T
+12012100073,3.27602E+15,Siti   Aminah,Akuratansi,"3,21",S1,Universitas Padjadjaran,30-08-2025,2ef3bb1b-4412-4029-bebd-6e743d95b222,t
+12012100074,347109480192000X,Budi Santoso,Sistem Informas,3.67,S1,Universitas Negeri Surabaya,9/1/2025,3ff4cc2c-5511-4029-bebd-6e743d95c333,t
+12012100075,3.37407E+15,Rina Marlina,Teknk Mesin,3.54,S1,Institut Teknologi Bandung,9/15/2025,4aa5dd3d-6611-4029-bebd-6e743d95d444,f
+12012100076,3.5782E+15,Jaka Prakoso,Administrasi Bisnis,3.02,S1,Universitas Airlangga,10/12/2025,5bb6ee4e-7711-4029-bebd-6e743d95e555,F
+12012100077,3.67205E+14,Andini Rahayu,Psikologi,2.95,S1,Universitas Diponegoro,8/30/2025,6cc7ff5f-8811-4029-bebd-6e743d95f666,t
+12012100078,3.20408E+15,Fahriansyah,Teknik Sipil,3.4,S1,Universitas Gadjah Mada,7/31/2025,7dd8016a-9911-4029-bebd-6e743d960777,T
+12012100079,3.17501E+15,Dewi Puspita,Ilmu Komunikasi,3.55,S1,Universitas Mercu Buana,8/31/2025,8ee9127b-aa11-4029-bebd-6e743d961888,t
+12012100080,3.3791E+15,Rudi Hermawan,Informatika,3.77,S1,Universitas Telkom,2025.09.02,9ff0238c-bb11-4029-bebd-6e743d962999,t
+12012100081,3.57105E+15,Lia Kartika,Sastra Inggris,3.25,S1,Universitas Negeri Malang,9/1/2025,1111349d-cc11-4029-bebd-6e743d963000,t
+12012100082,3.27305E+15,Daniel Simanjuntak,Manajemen,3.04,S1,Universitas Parahyangan,8/29/2025,222245ae-dd11-4029-bebd-6e743d964111,f
+12012100083,3.37707E+15,Kartini,Sosiologi,3.56,S1,Universitas Jember,8/27/2025,333356bf-ee11-4029-bebd-6e743d965222,t
+12012100084,3.57305E+15,Muhammad Rizal,Teknik Mesin,3.68,S1,Institut Teknologi Sepuluh Nopember,10/5/2025,444467d0-ff11-4029-bebd-6e743d966333,T
+12012100085,3.27103E+15,Selvi Nurjanah,Gizi,3.19,S1,Universitas Brawijaya,9/3/2025,555578e1-0012-4029-bebd-6e743d967444,f
+12012100086,3.17212E+15,Andra Widianto,Teknik Elektro,3.75,S1,Universitas Muhammadiyah Jakarta,8/28/2025,666689f2-1122-4029-bebd-6e743d968555,t
+12012100087,3.37602E+15,Bella Pramudita,Farmasi,3.84,S1,Universitas Ahmad Dahlan,8/31/2025,77779a03-2233-4029-bebd-6e743d969666,t
+12012100088,3.47802E+15,Yoga Adi Putra,PGSD,3.12,S1,Universitas Negeri Yogyakarta,7/25/2025,88880b14-3344-4029-bebd-6e743d96a777,t
+12012100089,3.37501E+15,Silvia Maharani,Pendidikan Ekonomi,3.33,S1,Universitas Negeri Semarang,8/30/2025,99991c25-4455-4029-bebd-6e743d96b888,f
+12012100090,3.27107E+15,Firman Hidayat,Informatika,3.01,S1,Universitas Dian Nuswantoro,9/2/2025,aaa92d36-5566-4029-bebd-6e743d96c999,t
+12012100091,3.17208E+15,Nova Lestari,Kedokteran,3.9,S1,Universitas Trisakti,8/26/2025,bbb03e47-6677-4029-bebd-6e743d96d000,T
+12012100092,3.47403E+15,Yusuf,Kehutanan,2.98,S1,Universitas Mulawarman,9/4/2025,ccc14f58-7788-4029-bebd-6e743d96e111,f
+12012100093,3.37401E+15,Maya Rosita,Peternakan,3.44,S1,Universitas Hasanuddin,7/30/2025,ddd25069-8899-4029-bebd-6e743d96f222,t
+12012100094,3.57603E+15,Dian Cahya,Agroteknologi,3.48,S1,Universitas Lampung,8/29/2025,eee3617a-99aa-4029-bebd-6e743d970333,t
+12012100095,3.27807E+15,Iqbal Ramadhan,Sistem Informasi,3.72,S1,Universitas Gunadarma,8/31/2025,fff4728b-aabb-4029-bebd-6e743d971444,t
+12012100096,3.67203E+15,Fani Nurul Ilmi,Manajemen,3.6,S1,Universitas Pancasila,7/29/2025,1115839c-bbcc-4029-bebd-6e743d972555,f
+12012100097,3.17504E+15,Rahmat Prabowo,Statistika,3.29,S1,Universitas Esa Unggul,8/28/2025,222694ad-ccdd-4029-bebd-6e743d973666,t
+12012100098,3.37106E+15,Angga Saputra,Hubungan Internasional,3.5,S1,Universitas Al Azhar Indonesia,9/2/2025,3337a5be-ddee-4029-bebd-6e743d974777,t
+12012100099,3.57102E+15,Citra Dewi,Akuntansi,3.58,S1,Universitas Bhayangkara,10/1/2025,4448b6cf-eeff-4029-bebd-6e743d975888,f
+12012100100,3.27404E+15,Fauzan Saeful,RPL,3.31,S1,Politeknik Negeri Bandung,8/30/2025,5559c7d0-ffff-4029-bebd-6e743d976999,t
